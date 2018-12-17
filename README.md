@@ -8,7 +8,9 @@ Awesome Machine Learning for Cyber Security Awesom
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
 ↑ Datasets
+
 Samples of Security Related Data : http://www.secrepo.com/
+
 DARPA Intrusion Detection Data Sets : https://www.ll.mit.edu/ideval/data/
 Stratosphere IPS Data Sets
 Open Data Sets
