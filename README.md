@@ -7,30 +7,33 @@ Awesome Machine Learning for Cyber Security Awesom
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
-↑ Datasets
+A. Datasets
 
-Samples of Security Related Data : http://www.secrepo.com/
+- Samples of Security Related Data : http://www.secrepo.com/
+- DARPA Intrusion Detection Data Sets : https://www.ll.mit.edu/ideval/data/
+- Stratosphere IPS Data Sets : https://www.stratosphereips.org/category/dataset.html
+- Open Data Sets : https://csr.lanl.gov/data/
+- Data Capture from National Security Agency : http://www.westpoint.edu/crc/SitePages/DataSets.aspx
+- The ADFA Intrusion Detection Data Sets : https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-IDS-Datasets/
+- NSL-KDD Data Sets : https://github.com/defcom17/NSL_KDD
+- Malicious URLs Data Sets : http://www.sysnet.ucsd.edu/projects/url/
+- Multi-Source Cyber-Security Events : https://csr.lanl.gov/data/cyber1/
+- KDD Cup 1999 Data : http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+- Web Attack Payloads : https://github.com/foospidy/payloads
+- WAF Malicious Queries Data Sets : https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall
+- Malware Training Data Sets : https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall
+- Aktaion Data Sets : https://github.com/jzadeh/Aktaion/tree/master/data
+- CRIME Database from DeepEnd Research : https://www.dropbox.com/sh/7fo4efxhpenexqp/AADHnRKtL6qdzCdRlPmJpS8Aa/CRIME?dl=0
+- Publicly available PCAP files : https://www.netresec.com/?page=PcapFiles
+- 2007 TREC Public Spam Corpus : https://plg.uwaterloo.ca/~gvcormac/treccorpus07/
+- Drebin Android Malware Dataset : https://www.sec.cs.tu-bs.de/~danarp/drebin/
+- PhishingCorpus Datset : https://monkey.org/~jose/phishing/
 
-DARPA Intrusion Detection Data Sets : https://www.ll.mit.edu/ideval/data/
-Stratosphere IPS Data Sets
-Open Data Sets
-Data Capture from National Security Agency
-The ADFA Intrusion Detection Data Sets
-NSL-KDD Data Sets
-Malicious URLs Data Sets
-Multi-Source Cyber-Security Events
-KDD Cup 1999 Data
-Web Attack Payloads
-WAF Malicious Queries Data Sets
-Malware Training Data Sets
-Aktaion Data Sets
-CRIME Database from DeepEnd Research
-Publicly available PCAP files
-2007 TREC Public Spam Corpus
-Drebin Android Malware Dataset
-PhishingCorpus Datset
-↑ Papers
-Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks
+B. Papers
+
+- Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks :
+  https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher
+  
 Outside the Closed World: On Using Machine Learning for Network Intrusion Detection
 Anomalous Payload-Based Network Intrusion Detection
 Malicious PDF detection using metadata and structural features
