@@ -195,37 +195,64 @@ D. Talks
 E. Tutorials
 
 - Click Security Data Hacking Project:
-  
-- Using Neural Networks to generate human readable passwords
-Machine Learning based Password Strength Classification
-Using Machine Learning to Detect Malicious URLs
-Big Data and Data Science for Security and Fraud Detection
-Using deep learning to break a Captcha system
-Data mining for network security and intrusion detection
-An Introduction to Machine Learning for Cybersecurity and Threat Hunting
-Applying Machine Learning to Improve Your Intrusion Detection System
-Analyzing BotNets with Suricata & Machine Learning
-fWaf – Machine learning driven Web Application Firewall
-Deep Session Learning for Cyber Security
-DMachine Learning for Malware Detection
-ShadowBrokers Leak: A Machine Learning Approach
-Practical Machine Learning in Infosec - Virtualbox Image and Stuff
-A Machine-Learning Toolkit for Large-scale eCrime Forensics
-WebShells Detection by Machine Learning
-Building Machine Learning Models for the SOC
-Detecting Web Attacks With Recurrent Neural Networks
-Machine Learning for Red Teams, Part 1
-Detecting Reverse Shell with Machine Learning
-Obfuscated Command Line Detection Using Machine Learning
+  http://clicksecurity.github.io/data_hacking/
+- Using Neural Networks to generate human readable passwords:
+  http://web.archive.org/web/20170606051515/http://fsecurify.com/using-neural-networks-to-generate-human-readable-passwords/
+- Machine Learning based Password Strength Classification:
+  http://web.archive.org/web/20170606022743/http://fsecurify.com/machine-learning-based-password-strength-checking/
+- Using Machine Learning to Detect Malicious URLs:
+  http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/
+- Big Data and Data Science for Security and Fraud Detection:
+  https://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html
+- Using deep learning to break a Captcha system:
+  http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/
+- Data mining for network security and intrusion detection:
+  https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/
+- An Introduction to Machine Learning for Cybersecurity and Threat Hunting: 
+  http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting
+- Applying Machine Learning to Improve Your Intrusion Detection System:
+  https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/
+- Analyzing BotNets with Suricata & Machine Learning:
+  http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/
+- fWaf – Machine learning driven Web Application Firewall:
+  http://web.archive.org/web/20170706222016/http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/
+- Deep Session Learning for Cyber Security:
+  https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81#.eo2m4alid
+- DMachine Learning for Malware Detection:
+  https://resources.infosecinstitute.com/machine-learning-malware-detection/
+- ShadowBrokers Leak: A Machine Learning Approach:
+  https://marcoramilli.blogspot.ru/2017/04/shadowbrokers-leak-machine-learning.html
+- Practical Machine Learning in Infosec - Virtualbox Image and Stuff:
+  https://marcoramilli.blogspot.ru/2017/04/shadowbrokers-leak-machine-learning.html
+- A Machine-Learning Toolkit for Large-scale eCrime Forensics:
+  http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/
+- WebShells Detection by Machine Learning:
+  https://github.com/lcatro/WebShell-Detect-By-Machine-Learning
+- Building Machine Learning Models for the SOC:
+  https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html
+- Detecting Web Attacks With Recurrent Neural Networks:
+  https://aivillage.org/posts/detecting-web-attacks-rnn/
+- Machine Learning for Red Teams, Part 1:
+  https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/
+- Detecting Reverse Shell with Machine Learning:
+  https://www.cyberbit.com/blog/endpoint-security/detecting-reverse-shell-with-machine-learning/
+- Obfuscated Command Line Detection Using Machine Learning:
+  https://www.fireeye.com/blog/threat-research/2018/11/obfuscated-command-line-detection-using-machine-learning.html
 
 F. Courses
 
-Data Mining for Cyber Security by Stanford
-Data Science and Machine Learning for Infosec
+- Data Mining for Cyber Security by Stanford:
+  http://web.stanford.edu/class/cs259d/
+- Data Science and Machine Learning for Infosec:
+  https://www.pentesteracademy.com/course?id=30
 
 G. Miscellaneous
 
-System predicts 85 percent of cyber-attacks using input from human experts
-A list of open source projects in cyber security using machine learning
-Source code about machine learning and security
-Source code for Mastering Machine Learning for Penetration Testing
+- System predicts 85 percent of cyber-attacks using input from human experts:
+  http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418
+- A list of open source projects in cyber security using machine learning:
+  https://enterprise.verizon.com/products/security/advanced-threat-analytics-and-detection/autonomous-threat-hunting/#open-source-projects
+- Source code about machine learning and security:
+  https://github.com/13o-bbr-bbq/machine_learning_security
+- Source code for Mastering Machine Learning for Penetration Testing:
+  https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing
